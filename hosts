@@ -1,0 +1,9 @@
+[webservers]
+172.31.49.164 ansible_python_interpreter=/usr/bin/python3
+172.31.58.82 ansible_python_interpreter=/usr/bin/python3
+
+[appservers]
+172.31.58.82 ansible_python_interpreter=/usr/bin/python3
+
+[dbservers]
+172.31.57.128 ansible_python_interpreter=/usr/bin/python3
